@@ -1,0 +1,2 @@
+# ethereumSmartContract
+Decentralized smart contract
